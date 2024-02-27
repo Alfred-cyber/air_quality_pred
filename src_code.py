@@ -2,7 +2,7 @@
 # coding: utf-8
 
 #To predict quality of Air Pollution
-#Author: Akshay Mattoo
+#Author: Alfred.B
 
 import numpy as np
 import matplotlib.pyplot as plt
